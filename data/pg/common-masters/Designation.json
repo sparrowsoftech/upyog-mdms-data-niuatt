@@ -164,18 +164,8 @@
       "code": "DESIG_47",
       "active": true
     },
-    {
-      "name": "Accounts Officer",
-      "description": "Accounts Officer",
-      "code": "AO",
-      "active": true
-    },
-    {
-      "name": "Test Officer",
-      "description": "Test Officer",
-      "code": "AO",
-      "active": true
-    },
+   
+   
     {
       "name": "Commissioner",
       "description": "Commissioner",
