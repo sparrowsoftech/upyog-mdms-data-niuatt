@@ -171,6 +171,12 @@
       "active": true
     },
     {
+      "name": "Test Officer",
+      "description": "Test Officer",
+      "code": "AO",
+      "active": true
+    },
+    {
       "name": "Commissioner",
       "description": "Commissioner",
       "code": "COMM",
