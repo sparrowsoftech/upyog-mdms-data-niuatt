@@ -30714,6 +30714,24 @@
       "actionid": 2912,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	  {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 1913,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 1913,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1913,
+      "actioncode": "",
+      "tenantId": "pg"
     }
 	  
   ]
