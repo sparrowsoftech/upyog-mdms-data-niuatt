@@ -19541,6 +19541,19 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Expenditure Accounting.Receipt Payment",
       "navigationURL": "services/EGF/report/receiptPaymentReport-newForm.action"
+    },
+	  {
+      "id": 1913,
+      "name": "Remittance Advice",
+      "url": "url",
+      "displayName": "Remittance Advice",
+      "orderNumber": 8,
+      "enabled": true,
+      "serviceCode": "FinanceReport",
+      "code": "null",
+      "navigationURL": "services/EGF/report/remittanceAdvice-Report.action",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Report Generation.Deduction Reports.Remittance Advice "
     }
 	  
   ]
