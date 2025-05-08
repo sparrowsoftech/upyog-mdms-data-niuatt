@@ -10209,12 +10209,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1617,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "COLL_RECEIPT_CREATOR",
       "actionid": 709,
       "actioncode": "",
