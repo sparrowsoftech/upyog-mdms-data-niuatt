@@ -19554,6 +19554,19 @@
       "navigationURL": "services/EGF/report/remittanceAdvice-Report.action",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Report Generation.Deduction Reports.Remittance Advice "
+    },
+	  {
+      "id": 1914,
+      "name": "Loan Register",
+      "url": "url",
+      "displayName": "Loan Register",
+      "orderNumber": 13,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "navigationURL": "services/EGF/masters/loanGrant-newForm.action",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Loan Register"
     }
 	  
   ]
