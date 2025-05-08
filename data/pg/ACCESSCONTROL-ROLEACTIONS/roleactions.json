@@ -30738,6 +30738,17 @@
       "actionid": 1617,
       "actioncode": "",
       "tenantId": "pg"
+    },{
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 1914,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1914,
+      "actioncode": "",
+      "tenantId": "pg"
     }
 	  
   ]
