@@ -19525,7 +19525,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Cash Flow",
+      "path": "Finance.Report Generation.Financial Statements.Cash Flow",
       "navigationURL": "services/EGF/report/cashFlowReport-generateCashFlowReport.action"
     },
 	  {
@@ -19539,7 +19539,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Receipt Payment",
+      "path": "Finance.Report Generation.Financial Statements.Receipt Payment",
       "navigationURL": "services/EGF/report/receiptPaymentReport-newForm.action"
     },
 	  {
