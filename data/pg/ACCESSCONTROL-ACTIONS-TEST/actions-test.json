@@ -19564,9 +19564,9 @@
       "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
-      "navigationURL": "services/EGF/masters/loanGrant-newForm.action",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Loan Register"
+      "path": "Finance.Masters.Loan.grantloan",
+      "navigationURL": "services/EGF/masters/loanGrant-newForm.action"
     }
 	  
   ]
