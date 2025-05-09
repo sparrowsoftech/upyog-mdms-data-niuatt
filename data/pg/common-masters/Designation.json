@@ -144,13 +144,15 @@
       "name": "Deputy Controller Finance and Accounts",
       "description": "Deputy Controller Finance and Accounts",
       "code": "DESIG_1001",
-      "active": true
+      "active": true,
+       "amount": 1000000
     },
    {
       "name": "Accountant",
       "description": "Accountant",
       "code": "DESIG_58",
-      "active": true
+      "active": true,
+      "amount": 100000
     },
    {
       "code": "DESIG_24",
@@ -168,7 +170,8 @@
       "name": "Accounts Officer",
       "description": "Accounts Officer",
       "code": "AO",
-      "active": true
+      "active": true,
+      "amount": 50000
     },
     {
       "name": "Commissioner",
