@@ -145,14 +145,16 @@
       "description": "Deputy Controller Finance and Accounts",
       "code": "DESIG_1001",
       "active": true,
-       "amount": 1000000
+      "minamount": 100001
+       "maxamount": 1000000
     },
    {
       "name": "Accountant",
       "description": "Accountant",
       "code": "DESIG_58",
       "active": true,
-      "amount": 100000
+     "minamount": 50001
+      "maxamount": 100000
     },
    {
       "code": "DESIG_24",
@@ -171,7 +173,8 @@
       "description": "Accounts Officer",
       "code": "AO",
       "active": true,
-      "amount": 50000
+      "minamount": 1
+      "maxamount": 50000
     },
     {
       "name": "Commissioner",
