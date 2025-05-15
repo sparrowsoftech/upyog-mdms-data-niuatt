@@ -19642,7 +19642,7 @@
 	  {
       "id": 1920,
       "name": "Receipt Register",
-      "url": "/services/EGF/voucher/voucherSearch-beforesearch.action",
+      "url": "/services/EGF/voucher/receiptSearch-beforesearch.action",
       "parentModule": "",
       "displayName": "Receipt Register",
       "orderNumber": 6,
@@ -19651,7 +19651,7 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.General.View Vouchers",
-      "navigationURL": "/services/EGF/voucher/voucherSearch-beforesearch.action"
+      "navigationURL": "/services/EGF/voucher/receiptSearch-beforesearch.action"
     }
 	  
   ]
