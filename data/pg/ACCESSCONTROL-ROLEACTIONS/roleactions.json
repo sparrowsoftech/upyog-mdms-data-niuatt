@@ -30749,7 +30749,18 @@
       "actionid": 1914,
       "actioncode": "",
       "tenantId": "pg"
-    }
-	  
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1915,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COLL_REMIT_TO_BANK",
+      "actionid": 1915,
+      "actioncode": "",
+      "tenantId": "pg"
+    }  
   ]
 }
