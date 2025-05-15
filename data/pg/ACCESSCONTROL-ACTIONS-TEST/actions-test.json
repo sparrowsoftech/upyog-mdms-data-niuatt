@@ -19501,7 +19501,7 @@
       "navigationURL": "services/EGF/budget/budgetReport-ulbWiseReport.action",
       "leftIcon": "editor:insert-chart"
     },
-	  {
+    {
       "id": 2910,
       "name": "Financial Year-SetUp By Date Range",
       "url": "url",
@@ -19514,7 +19514,8 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Year End Activities.Close Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/search/daterange"
-    },{
+    },
+    {
       "id": 2911,
       "name": "Cash Flow",
       "url": "url",
@@ -19528,7 +19529,7 @@
       "path": "Finance.Report Generation.Financial Statements.Cash Flow",
       "navigationURL": "services/EGF/report/cashFlowReport-generateCashFlowReport.action"
     },
-	  {
+    {
       "id": 2912,
       "name": "Receipt Payment",
       "url": "url",
@@ -19542,7 +19543,7 @@
       "path": "Finance.Report Generation.Financial Statements.Receipt Payment",
       "navigationURL": "services/EGF/report/receiptPaymentReport-newForm.action"
     },
-	  {
+    {
       "id": 1913,
       "name": "Remittance Advice",
       "url": "url",
@@ -19555,7 +19556,7 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Report Generation.Deduction Reports.Remittance Advice "
     },
-	  {
+    {
       "id": 1914,
       "name": "Loan Register",
       "url": "url",
@@ -19567,6 +19568,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Loan.grantloan",
       "navigationURL": "services/EGF/masters/loanGrant-newForm.action"
+    },
+    {
+      "id": 1915,
+      "name": "Day End Remittance Voucher",
+      "url": "url",
+      "displayName": "Day End Remittance Voucher",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Collections",
+      "code": "null",
+      "navigationURL": "services/collection/receipts/dayEndRemittance-newform.action",
+      "leftIcon": "image:collections",
+      "path": "Finance.Revenue Accounting.Day End Remittance Voucher"
     }
 	  
   ]
