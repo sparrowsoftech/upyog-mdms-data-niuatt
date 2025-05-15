@@ -1,0 +1,11 @@
+{
+  "tenantId": "pg",
+  "moduleName": "common-masters",
+  "Department": [
+    {
+      "name": "Street Lights",
+      "code": "DEPT_1",
+      "active": true
+    }
+  ]
+}
