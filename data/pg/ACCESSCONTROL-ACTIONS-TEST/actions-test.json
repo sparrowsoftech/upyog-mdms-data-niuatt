@@ -5027,7 +5027,7 @@
       "id": 1735,
       "name": "PendingDeductions",
       "url": "url",
-      "displayName": "Remittance Pending",
+      "displayName": "Remittance Of Recovery",
       "orderNumber": 6,
       "enabled": true,
       "serviceCode": "FinanceReport",
