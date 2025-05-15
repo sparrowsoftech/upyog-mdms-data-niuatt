@@ -19582,6 +19582,48 @@
       "navigationURL": "services/collection/receipts/dayEndRemittance-newform.action",
       "leftIcon": "image:collections",
       "path": "Finance.Revenue Accounting.Day End Remittance Voucher"
+    },
+     {
+      "id": 1916,
+      "name": "Create Vendor",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Create Vendor",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Vendor.Create Vendor",
+      "navigationURL": "services/EGF/vendor/newform"
+    },
+    {
+      "id": 1917,
+      "name": "View Vendor",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "View Vendor",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Vendor.View Vendor",
+      "navigationURL": "services/EGF/vendor/search/view"
+    },
+    {
+      "id": 1918,
+      "name": "Modify Vendor",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Modify Vendor",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Vendor.Modify Vendor",
+      "navigationURL": "services/EGF/vendor/search/edit"
     }
 	  
   ]
