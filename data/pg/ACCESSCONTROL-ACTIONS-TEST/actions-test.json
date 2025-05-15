@@ -19638,6 +19638,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Expenditure Accounting.Payments.Bill Payment Report",
       "navigationURL": "services/EGF/payment/billPayment-beforesearch.action"
+    },
+	  {
+      "id": 1920,
+      "name": "Receipt Register",
+      "url": "/services/EGF/receipt/receiptSearch-beforesearch.action",
+      "parentModule": "",
+      "displayName": "Receipt Register",
+      "orderNumber": 6,
+      "enabled": true,
+      "serviceCode": "FinanceGeneral",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.General.View Vouchers",
+      "navigationURL": "services/EGF/receipt/receiptSearch-beforesearch.action"
     }
 	  
   ]
