@@ -19624,6 +19624,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Vendor.Modify Vendor",
       "navigationURL": "services/EGF/vendor/search/edit"
+    },
+	  {
+      "id": 1919,
+      "name": "Bill Payment Report",
+      "url": "/services/EGF/payment/payment/billPayment-search.action",
+      "parentModule": "",
+      "displayName": "Bill Payment Report",
+      "orderNumber": 14,
+      "enabled": true,
+      "serviceCode": "FinancePayment",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Expenditure Accounting.Payments.Bill Payment Report",
+      "navigationURL": "services/EGF/payment/payment/billPayment-search.action"
     }
 	  
   ]
