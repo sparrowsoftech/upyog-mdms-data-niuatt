@@ -30793,12 +30793,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1918,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 1919,
       "actioncode": "",
