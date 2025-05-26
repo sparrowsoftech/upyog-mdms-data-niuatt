@@ -19652,6 +19652,48 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.General.View Vouchers",
       "navigationURL": "/services/EGF/voucher/receiptSearch-beforesearch.action"
+    },
+	  {
+      "id": 1921,
+      "name": "Create Fund Source",
+      "navigationURL": "services/EGF/fundsource/new",
+      "url": "url",
+      "displayName": "Create Fund Source",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Fund Source.Create Fund Source"
+    },
+    {
+      "id": 1922,
+      "name": "Modify Fund Source",
+      "navigationURL": "services/EGF/fundsource/search/edit",
+      "url": "url",
+      "displayName": "Modify Fund Source",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Fund Source.Modify Fund Source"
+    },
+    {
+      "id": 1923,
+      "name": "View Fund Source",
+      "navigationURL": "services/EGF/fundsource/search/view",
+      "url": "url",
+      "displayName": "View Fund Source",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Fund Source.View Fund Source"
     }
 	  
   ]
