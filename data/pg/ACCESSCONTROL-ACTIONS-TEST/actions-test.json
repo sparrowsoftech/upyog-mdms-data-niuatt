@@ -19708,6 +19708,34 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.SOP.Create SOP"
+    },
+    {
+      "id": 1925,
+      "name": "View SOP",
+      "navigationURL": "services/EGF/sop/view",
+      "url": "url",
+      "displayName": "View SOP",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.SOP.View SOP"
+    },
+    {
+      "id": 1926,
+      "name": "Modify SOP",
+      "navigationURL": "services/EGF/sop/modify",
+      "url": "url",
+      "displayName": "Modify SOP",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.SOP.Modify SOP"
     }
 	  
   ]
