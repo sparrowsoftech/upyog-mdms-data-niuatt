@@ -19694,6 +19694,20 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Fund Source.View Fund Source"
+    },
+    {
+      "id": 1924,
+      "name": "Create SOP",
+      "navigationURL": "services/EGF/sop/create",
+      "url": "url",
+      "displayName": "Create SOP",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.SOP.Create SOP"
     }
 	  
   ]
